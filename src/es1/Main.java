@@ -12,10 +12,6 @@ import java.util.Scanner;
 //]
 //Write a main that uses the methods.
 
-
-
-
-
 public class Main{
     public static boolean stringaPariDispari(String s) {
         return s.length() % 2 == 0;
